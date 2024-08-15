@@ -1,4 +1,3 @@
-# COMING SOON🚀🚀
 # Football Team Cards Project
 
 ## Overview
